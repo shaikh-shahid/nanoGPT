@@ -1,0 +1,2 @@
+inference/nanogpt-rs/*.gguf
+inference/nanogpt-rs/*.safetensors
